@@ -10,4 +10,6 @@ Nel file ERC721.sol ho creato un NFT ERC721 su Polygon Testnet Amoy
 
 https://amoy.polygonscan.com/address/0xC481Ebb9E39eccc18eB30E8aDa9f08359ef7197d
 
-Nel file ERC1155.sol ho creato il token ERC1155 su Polygon Testnet Amoy
+Nel file ERC1155.sol ho creato il token ERC1155 "My Game Assets" su Ethereum Testnet Sepolia
+
+https://sepolia.etherscan.io/address/0x3459475cf401e79f58c106de9c6a76f6a112a094
