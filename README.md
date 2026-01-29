@@ -2,7 +2,7 @@
 
 wallet: 0x65Ebb74DccABb7Fb9cAC48C68DF67b19662A20d2
 
-Nel file ERC20.sol ho creato il token ERC20 DNCS deployato su tPolygon Testnet Amoy
+Nel file ERC20.sol ho creato il token ERC20 DNCS deployato su Polygon Testnet Amoy
 
 https://amoy.polygonscan.com/address/0x3459475cf401e79f58c106de9c6a76f6a112a094
 
